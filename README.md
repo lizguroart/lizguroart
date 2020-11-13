@@ -6,6 +6,8 @@
 + Me encanta crear herramientas que mejoren la interacción entre usuario y la web.
 + Apasionada por la tecnología.
 
+# Skills
+
 <!--
 **lizguroart/lizguroart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
