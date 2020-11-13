@@ -1,6 +1,6 @@
 # Hola, Soy Diana 👋
 
-<p style="max-width=70%">Ingeniera electrónica enfocada en el diseño y desarrollo de soluciones digitales. Con conocimientos en diferentes lenguajes de programación, principalmente enfocada en el ecosistema JavaScript.Me encanta crear herramientas que mejoren la interacción entre usuario y la web. Apasionada por la tecnología.</p>
+<p style="max-width:"70%"> Ingeniera electrónica enfocada en el diseño y desarrollo de soluciones digitales. Con conocimientos en diferentes lenguajes de programación, principalmente enfocada en el ecosistema JavaScript.Me encanta crear herramientas que mejoren la interacción entre usuario y la web. Apasionada por la tecnología.</p>
 
 - 🔭 Actualmente trabajando con **Javascript**, **Nodejs**, **Firebase**, **Reactjs**.         
 - 🌱 Actualmente estudiando **Reactjs**.
