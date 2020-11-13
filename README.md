@@ -2,7 +2,7 @@
 
 # ¿Quién soy?
 + Ingeniera electrónica enfocada en el diseño y desarrollo de soluciones digitales.
-+ con conocimientos en diferentes lenguajes de programación, principalmente enfocada en el ecosistema JavaScript.
++ Con conocimientos en diferentes lenguajes de programación, principalmente enfocada en el ecosistema JavaScript.
 + Me encanta crear herramientas que mejoren la interacción entre usuario y la web.
 + Apasionada por la tecnología.
 
