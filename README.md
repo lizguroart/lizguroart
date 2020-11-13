@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente trabajando con **Javascript**, **Nodejs**, **Firebase**, **Reactjs**.
 - 🌱 Actualmente estudiando **Reactjs**.
-- 📫 Como me encuentras: **[LinkedIn](https://www.linkedin.com/in/diliguro/)
+- 📫 Como me encuentras: **[LinkedIn](https://www.linkedin.com/in/diliguro/)**
 
 <!--
 **lizguroart/lizguroart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
