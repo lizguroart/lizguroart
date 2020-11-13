@@ -7,7 +7,7 @@ Ingeniera electrónica enfocada en el diseño y desarrollo de soluciones digital
 - 📫 Como me encuentras: **[LinkedIn](https://www.linkedin.com/in/diliguro/)**.
 - ⚡ Algo divertido sobre mi: **Me encanta el anime y el manga**
 
-![lizguroart](https://photos.app.goo.gl/vNbHUSGg3mZyYRdx7)
+[lizguroart](https://photos.app.goo.gl/vNbHUSGg3mZyYRdx7)
 <!--
 **lizguroart/lizguroart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
