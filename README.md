@@ -2,12 +2,12 @@
 
 Ingeniera electrónica enfocada en el diseño y desarrollo de soluciones digitales. Con conocimientos en diferentes lenguajes de programación, principalmente enfocada en el ecosistema JavaScript.Me encanta crear herramientas que mejoren la interacción entre usuario y la web. Apasionada por la tecnología.
 
-- 🔭 Actualmente trabajando con **Javascript**, **Nodejs**, **Firebase**, **Reactjs**.
+- 🔭 Actualmente trabajando con **Javascript**, **Nodejs**, **Firebase**, **Reactjs**.         <img src="./img/MojiPop.gif" aling="right" width="256">
 - 🌱 Actualmente estudiando **Reactjs**.
 - 📫 Como me encuentras: **[LinkedIn](https://www.linkedin.com/in/diliguro/)**.
 - ⚡ Algo divertido sobre mi: **Me encanta el anime y el manga**
 
-<img src="./img/MojiPop.gif" aling="right" width="256">
+
 
 <!--
 **lizguroart/lizguroart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
