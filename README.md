@@ -5,6 +5,7 @@ Ingeniera electrónica enfocada en el diseño y desarrollo de soluciones digital
 - 🔭 Actualmente trabajando con **Javascript**, **Nodejs**, **Firebase**, **Reactjs**.
 - 🌱 Actualmente estudiando **Reactjs**.
 - 📫 Como me encuentras: **[LinkedIn](https://www.linkedin.com/in/diliguro/)**.
+- ⚡ Algo divertido sobre mi: **Me encantan el anime y el manga**
 
 <!--
 **lizguroart/lizguroart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
