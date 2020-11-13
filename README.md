@@ -1,7 +1,10 @@
 ### Hola a todos 👋
 
 # ¿Quién soy?
-Ingeniera electrónica enfocada en el diseño y desarrollo de soluciones digitales, con conocimientos en diferentes lenguajes de programación, principalmente enfocada en el ecosistema JavaScript (NodeJs, Angular, React), creando asi herramientas que mejoren la interacción entre usuario y la web.
++ Ingeniera electrónica enfocada en el diseño y desarrollo de soluciones digitales.
++ con conocimientos en diferentes lenguajes de programación, principalmente enfocada en el ecosistema JavaScript.
++ Me encanta crear herramientas que mejoren la interacción entre usuario y la web.
++ Apasionada por la tecnología.
 
 <!--
 **lizguroart/lizguroart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
