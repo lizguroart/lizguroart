@@ -5,7 +5,7 @@
 - 🔭 Actualmente trabajando con **Javascript**, **Nodejs**, **Firebase**, **Reactjs**.         
 - 🌱 Actualmente estudiando **Reactjs**.
 - 📫 Como me encuentras: **[LinkedIn](https://www.linkedin.com/in/diliguro/)**.
-- ⚡ Algo divertido sobre mi: **Me encanta el anime y el manga**         
+- ⚡ Algo divertido sobre mi: **Me encanta ver anime y leer manga**         
 
 
 <!--
