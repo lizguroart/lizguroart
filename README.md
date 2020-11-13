@@ -3,7 +3,9 @@
 # ¿Quién soy?
 +Ingeniera electrónica enfocada en el diseño y desarrollo de soluciones digitales. Con conocimientos en diferentes lenguajes de programación, principalmente enfocada en el ecosistema JavaScript.Me encanta crear herramientas que mejoren la interacción entre usuario y la web. Apasionada por la tecnología.
 
-- 🔭 Actualmente trabajando con **Javascript** **Nodejs** **Firebase** **Reactjs**
+- 🔭 Actualmente trabajando con **Javascript**, **Nodejs**, **Firebase**, **Reactjs**.
+- 🌱 Actualmente estudiando **Reactjs**.
+- 📫 Como me encuentras: **[LinkedIn](https://www.linkedin.com/in/diliguro/)
 
 <!--
 **lizguroart/lizguroart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
