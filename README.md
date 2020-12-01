@@ -2,7 +2,7 @@
 
  ## I`m Electronic Engineer and FrontEnd Developer.
 
-<img src="./img/programando.jpeg" style="max-width:30" align="right" width="256" >Focused on the design and development of digital solutions. With knowledge in different programming languages, mainly focused on the JavaScript ecosystem. I love creating tools that improve the interaction between the user and the web. Passionate about technology.
+<img src="./img/programando.jpeg" style="max-width:30" align="right" width="256" > Focused on the design and development of digital solutions. With knowledge in different programming languages, mainly focused on the JavaScript ecosystem. I love creating tools that improve the interaction between the user and the web. Passionate about technology.
 
 - 🔭 I’m currently working on **Javascript**, **Nodejs**, **Firebase**, **Reactjs**.         
 - 🌱 I’m currently learning **Reactjs**.
@@ -10,7 +10,7 @@
 - ⚡ Fun fact: **I love watch anime and read manga**         
 
 ## Technologies
-<img src="./img/css.png"width="100" >
+<img src="./img/css.png "width="100" >
 
 
 
