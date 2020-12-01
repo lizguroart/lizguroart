@@ -1,11 +1,16 @@
-# Hola, Soy Diana 👋
+# Hi there, I'm Diana Gutierrez 👋
 
-<img src="./img/programando.jpeg" style="max-width:30" align="right" width="256" >Ingeniera electrónica enfocada en el diseño y desarrollo de soluciones digitales. Con conocimientos en diferentes lenguajes de programación, principalmente enfocada en el ecosistema JavaScript. Me encanta crear herramientas que mejoren la interacción entre usuario y la web. Apasionada por la tecnología.
+ ## I`m Electronic Engineer and FrontEnd Developer.
 
-- 🔭 Actualmente trabajando con **Javascript**, **Nodejs**, **Firebase**, **Reactjs**.         
-- 🌱 Actualmente estudiando **Reactjs**.
-- 📫 Como me encuentras: **[LinkedIn](https://www.linkedin.com/in/diliguro/)**.
-- ⚡ Algo divertido sobre mi: **Me encanta ver anime y leer manga**         
+<img src="./img/programando.jpeg" style="max-width:30" align="right" width="256" >focused on the design and development of digital solutions. With knowledge in different programming languages, mainly focused on the JavaScript ecosystem. I love creating tools that improve the interaction between the user and the web. Passionate about technology.
+
+- 🔭 I’m currently working on **Javascript**, **Nodejs**, **Firebase**, **Reactjs**.         
+- 🌱 I’m currently learning **Reactjs**.
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/diliguro/)**.
+- ⚡ Fun fact: **I love watch anime and read manga**         
+
+## Technologies
+
 
 
 <!--
