@@ -4,7 +4,7 @@
 
 <img src="./img/programando.jpeg" style="max-width:30" align="right" width="256" > Focused on the design and development of digital solutions. With knowledge in different programming languages, mainly focused on the JavaScript ecosystem. I love creating tools that improve the interaction between the user and the web. Passionate about technology.
 
-- 🔭 I’m currently working on **Javascript**, **Nodejs**, **Firebase**, **Reactjs**.         
+- 🔭 I’m currently working on **Reactjs**.         
 - 🌱 I’m currently learning **Reactjs**.
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/diliguro/)**.
 - ⚡ Fun fact: **I love watch anime and read manga**         
