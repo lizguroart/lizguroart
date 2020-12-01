@@ -11,7 +11,7 @@
 
 ## Technologies
 
-<img src="./img/html-5.png" width="35"> <img src="./img/css.png" width="35"> <img src="./img/JS.png" width="30"> <img src="./img/nodejs.png" width="30">
+<img src="./img/html-5.png" width="33"> <img src="./img/css.png" width="33"> <img src="./img/JS.png" width="30"> <img src="./img/nodejs.png" width="30"> <img src="./img/firebase.svg" width="30"> <img src="./img/react.svg" width="30"> <img src="./img/sass.svg" width="30"> <img src="./img/dialogflow.png" width="30">
 
 
 
