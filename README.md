@@ -11,7 +11,7 @@
 
 ## Technologies
 
-<img src="./img/css.png" width="100">
+<img src="./img/css.png" width="30">
 
 
 
