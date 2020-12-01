@@ -10,6 +10,7 @@
 - ⚡ Fun fact: **I love watch anime and read manga**         
 
 ## Technologies
+<img src="./img/css.png"width="100" >
 
 
 
