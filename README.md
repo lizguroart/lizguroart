@@ -11,7 +11,11 @@
 
 ## Technologies
 
-<img src="./img/html-5.png" width="33">  <img src="./img/css.png" width="33">  <img src="./img/JS.png" width="30">  <img src="./img/nodejs.png" width="28">  <img src="./img/firebase.svg" width="27">  <img src="./img/react.svg" width="33">  <img src="./img/sass.svg" width="33">  <img src="./img/dialogflow.png" width="27">
+**FRONTEND** | **BACKEND** | **DESIGN** | **OTHER**
+------------ | ------------| -----------| ------------
+<img src="./img/html-5.png" width="33"> <img src="./img/css.png" width="33"> <img src="./img/JS.png" width="30"> <img src="./img/react.svg" width="33">  <img src="./img/sass.svg" width="33"> | <img src="./img/nodejs.png" width="28"> <img src="./img/firebase.svg" width="27"> | <img src="./img/fifma.png" width="30"> | <img src="./img/dialogflow.png" width="27">
+
+           
 
 
 
