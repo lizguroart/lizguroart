@@ -8,7 +8,7 @@ Welcome to my profile! I'm Electronic Engineer and FrontEnd Developer, full-time
 
 <img src="./img/programando.jpeg" style="max-width:30" align="right" width="256" >
 
-## Technologies
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Technologies
 
 **FRONTEND** | **BACKEND** | **DESIGN** | **OTHER**
 ------------ | ------------| -----------| ------------
