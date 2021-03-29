@@ -16,7 +16,7 @@ Welcome to my profile! I'm Electronic Engineer and FrontEnd Developer, full-time
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizguroart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)           
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lizguroart) ![Profile last updated](https://img.shields.io/github/last-commit/lizguroart/master?label=Last%20updated&style=flat)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lizguroart) ![GitHub last commit](https://img.shields.io/github/last-commit/lizguroart/lizguroart)
 
 
 
