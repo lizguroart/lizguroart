@@ -1,4 +1,5 @@
 # Hi there, I'm Diana Gutierrez 👋
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diliguro/)](https://www.linkedin.com/in/diliguro/)
 
  ## I`m Electronic Engineer and FrontEnd Developer.
 
