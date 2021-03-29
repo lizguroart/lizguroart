@@ -1,5 +1,7 @@
 # Hi there, I'm Diana Gutierrez 👋
 [![Linkedin Badge](https://img.shields.io/badge/-diliguro-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diliguro/)](https://www.linkedin.com/in/diliguro/)
+[![Twitter Badge](https://img.shields.io/badge/-@lizguroart-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lizguroart)](https://twitter.com/lizguroart)
+[![Instagram Badge](https://img.shields.io/badge/-@lizguroart-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/lizguroart/)](https://instagram.com/lizguroart)
 
  ## I`m Electronic Engineer and FrontEnd Developer.
 
