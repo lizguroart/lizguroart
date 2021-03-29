@@ -19,10 +19,12 @@ Welcome to my profile! I'm Electronic Engineer and FrontEnd Developer, full-time
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizguroart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
 
 
-
+<hr>
 <p align="center"><a href="https://www.buymeacoffee.com/lizguroart" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="150" style="border-radius:2px"/></a></p>
 
+<p align="center">
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lizguroart) ![GitHub last Update](https://img.shields.io/github/last-commit/lizguroart/lizguroart)
+</p>
 
 
 
