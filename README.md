@@ -14,6 +14,8 @@ Welcome to my profile! I'm Electronic Engineer and FrontEnd Developer, full-time
 ------------ | ------------| -----------| ------------
 <img src="./img/html-5.png" width="33"> <img src="./img/css.png" width="33"> <img src="./img/JS.png" width="30"> <img src="./img/react.svg" width="33">  <img src="./img/sass.svg" width="33"> | <img src="./img/nodejs.png" width="28"> <img src="./img/firebase.svg" width="27"> | <img src="./img/figma.svg" width="20"> | <img src="./img/dialogflow.png" width="27"> <img src="./img/git.png" width="36">
 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lizguroart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizguroart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)           
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lizguroart) ![GitHub last Update](https://img.shields.io/github/last-commit/lizguroart/lizguroart)
