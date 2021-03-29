@@ -23,7 +23,7 @@ Welcome to my profile! I'm Electronic Engineer and FrontEnd Developer, full-time
 
 
 
-<a href="https://www.buymeacoffee.com/lizguroart" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="150" style="border-radius:2px, aling-items: center"  />
+<a href="https://www.buymeacoffee.com/lizguroart" target="_blank" align="center"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="150" style="border-radius:2px"  />
 
 
 
