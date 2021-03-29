@@ -3,9 +3,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-@lizguroart-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lizguroart)](https://twitter.com/lizguroart)
 [![Instagram Badge](https://img.shields.io/badge/-@lizguroart-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/lizguroart/)](https://instagram.com/lizguroart)
 
-       
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lizguroart) ![GitHub last Update](https://img.shields.io/github/last-commit/lizguroart/lizguroart)
-
 Welcome to my profile! I'm Electronic Engineer and FrontEnd Developer, full-time coder, I love creating tools that improve the interaction between the user and the web. Passionate about technology & Cat Lover. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/diliguro/)!
 
 
@@ -23,8 +20,9 @@ Welcome to my profile! I'm Electronic Engineer and FrontEnd Developer, full-time
 
 
 
-<a href="https://www.buymeacoffee.com/lizguroart" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="150" align="center" style="border-radius:2px"  />
+<p aling="center"><a href="https://www.buymeacoffee.com/lizguroart" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="150" style="border-radius:2px"/></a></p>
 
+<p aling="center">![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lizguroart) ![GitHub last Update](https://img.shields.io/github/last-commit/lizguroart/lizguroart)</p>
 
 
 
