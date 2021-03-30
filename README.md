@@ -6,7 +6,7 @@
 Welcome to my profile! I'm Electronic Engineer and FrontEnd Developer, full-time coder, I love creating tools that improve the interaction between the user and the web. Passionate about technology & Cat Lover. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/diliguro/)!
 
 
-<img src="./img/woman.jpg" style="max-width:20" align="right" width="400" >
+<img src="./img/woman.jpg" style="max-width:20" align="right" width="350" >
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Technologies
 
