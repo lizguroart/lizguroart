@@ -1,26 +1,92 @@
 # Hi there, I'm Diana Gutierrez <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-[![Linkedin Badge](https://img.shields.io/badge/-diliguro-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diliguro/)](https://www.linkedin.com/in/diliguro/)
-[![Twitter Badge](https://img.shields.io/badge/-@lizguroart-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lizguroart)](https://twitter.com/lizguroart)
-[![Instagram Badge](https://img.shields.io/badge/-@lizguroart-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/lizguroart/)](https://instagram.com/lizguroart)
+Frontend Engineer | React & TypeScript | eCommerce & Scalable Architecture  
+Electronic Engineer with 4+ years building high-performance web applications in retail and digital commerce environments.
 
-Welcome to my profile! I'm Electronic Engineer and FrontEnd Developer, full-time coder, I love creating tools that improve the interaction between the user and the web. Passionate about technology & Cat Lover. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/diliguro/)!
-<img src="./img/woman.jpg" style="max-width:20" align="right" width="350" >
+---
+## 👩🏻‍💻 About Me
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Technologies
+I specialize in designing and developing scalable frontend architectures focused on:
 
-**FRONTEND** | **BACKEND** | **DESIGN** | **OTHER**
------------- | ------------| -----------| ------------
-<img src="./img/html-5.png" width="33"> <img src="./img/css.png" width="33"> <img src="./img/JS.png" width="30"> <img src="./img/react.svg" width="33">  <img src="./img/sass.svg" width="33"> | <img src="./img/nodejs.png" width="28"> <img src="./img/firebase.svg" width="27"> | <img src="./img/figma.svg" width="20"> | <img src="./img/dialogflow.png" width="27"> <img src="./img/git.png" width="36">
+- Performance optimization
+- Clean and maintainable codebases
+- Secure web applications
+- Component-driven development
+- UX-focused implementations
 
+I’ve worked in fast-paced eCommerce environments where reliability, speed, and business impact are critical.
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lizguroart&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizguroart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
+Currently strengthening my expertise in:
+- Advanced TypeScript
+- Frontend architecture patterns
+- Secure development practices
+- System design principles
 
-<hr>
-<p align="center"><a href="https://www.buymeacoffee.com/lizguroart" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="150" style="border-radius:2px"/></a></p>
+---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lizguroart) ![GitHub last Update](https://img.shields.io/github/last-commit/lizguroart/lizguroart)
+## 🧠 What I Do Best
+
+- Architect scalable React applications
+- Optimize performance (lazy loading, code splitting, rendering strategies)
+- Implement robust state management solutions
+- Integrate analytics and tracking tools
+- Apply secure coding best practices
+- Collaborate with cross-functional teams under agile methodologies
+- Lead technical decisions when required
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- TypeScript
+- JavaScript (ES6+)
+- HTML5 / CSS3 / Sass
+- Component-driven architecture
+
+### Backend & Integrations
+- Node.js (basic integrations)
+- REST APIs
+- Authentication flows
+
+### Tools
+- Git / GitHub
+- Agile (Scrum)
+- Performance auditing
+- CI/CD basics
+
+---
+
+## 📌 Featured Projects
+> (You should link here 3 strong repositories)
+
+- 🔹 Project Name – Short description of the problem it solves and architectural approach.
+- 🔹 Project Name – Explain technical decisions and impact.
+- 🔹 Project Name – Highlight performance or security improvements.
+
+---
+
+## 📈 Professional Focus
+
+I am interested in:
+
+- Frontend Lead roles
+- Architecture-focused positions
+- Secure and scalable web platforms
+- High-impact digital products
+
+---
+
+## 📬 Let’s Connect
+
+📍 Bogotá, Colombia (Remote friendly)  
+📧 digutierrezr@gmail.com  
+🔗 LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-diliguro-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diliguro/)](https://www.linkedin.com/in/diliguro/)
+
+---
+
+> “Clean architecture, performance mindset, and business-oriented frontend engineering.”
+
 
 
 
