@@ -80,7 +80,7 @@ I am interested in:
 ## 📬 Let’s Connect
 
 📍 Bogotá, Colombia (Remote friendly)  
-📧 digutierrezr@gmail.com  
+📧 dgutierrez.dev@gmail.com  
 🔗 LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-diliguro-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diliguro/)](https://www.linkedin.com/in/diliguro/)
 
 ---
